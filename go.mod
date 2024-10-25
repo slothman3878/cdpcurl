@@ -1,5 +1,7 @@
 module github.com/slothman3878/cdpcurl
 
+replace github.com/coinbase/cdpcurl v0.0.1 => github.com/slothman3878/cdpcurl v0.0.1
+
 go 1.22
 
 require (
