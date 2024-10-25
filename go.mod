@@ -1,4 +1,4 @@
-module github.com/coinbase/cdpcurl
+module github.com/slothman3878/cdpcurl
 
 go 1.22
 
