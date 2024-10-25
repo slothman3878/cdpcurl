@@ -1,7 +1,5 @@
 module github.com/coinbase/cdpcurl
 
-replace github.com/coinbase/cdpcurl v0.0.1 => github.com/slothman3878/cdpcurl v0.0.1
-
 go 1.22
 
 require (
@@ -16,3 +14,5 @@ require (
 	github.com/stretchr/testify v1.8.4 // indirect
 	golang.org/x/crypto v0.17.0 // indirect
 )
+
+replace github.com/coinbase/cdpcurl => github.com/slothman3878/cdpcurl v0.0.1
