@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/slothman3878/cdpcurl/internal/auth"
+	"github.com/coinbase/cdpcurl/internal/auth"
 )
 
 type APIKey = auth.APIKey

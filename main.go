@@ -10,7 +10,7 @@ import (
 
 	"encoding/json"
 
-	"github.com/slothman3878/cdpcurl/transport"
+	"github.com/coinbase/cdpcurl/transport"
 	"github.com/spf13/cobra"
 )
 

@@ -1,4 +1,4 @@
-module github.com/slothman3878/cdpcurl
+module github.com/coinbase/cdpcurl
 
 replace github.com/coinbase/cdpcurl v0.0.1 => github.com/slothman3878/cdpcurl v0.0.1
 
